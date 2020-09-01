@@ -1,9 +1,9 @@
-DESCRIPTION:
+**DESCRIPTION**
 A web application that generates a number randomly and returns it with specific instructions. For instance, if person one rolls a dice it will show the random number from 1 to 6 but if you are unfortunate and get a 1 you are awarded a 0 and the chance given to the second player
 
 
 
-GAME RULES:  
+**GAME RULES**  
 - The game has 2 players, playing in rounds 
 - In each turn, a player rolls dice as many times as he wishes. Each result gets added to his ROUND score.
 - BUT, if the player rolls a 1, all his ROUND score gets lost. After that, it's the next player's turn.
@@ -12,17 +12,17 @@ GAME RULES:
 
 
 
-Technologies Used:
+**TECHNOLOGIES USED**
 
--Javascript
+*Javascript
 
--HTML
+*HTML
 
--CSS
-
-
+*CSS
 
 
-Contributing:
+
+
+**CONTRIBUTING**
 
 Pull requests are encouraged.
