@@ -13,9 +13,9 @@ A web application that generates a number randomly and returns it with specific 
 
 
 **TECHNOLOGIES USED**  
-*Javascript. 
-*HTML. 
-*CSS. 
+- Javascript.  
+- HTML.  
+- CSS.  
 
 
 
